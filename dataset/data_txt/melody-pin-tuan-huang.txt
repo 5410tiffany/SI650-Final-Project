@@ -1,5 +1,4 @@
-Education
-
+-----Education-----
 Carnegie Mellon University
 Master's degree
 Information System Management
@@ -10,8 +9,7 @@ Bachelor's degree
 Computer Science
 2016-2020
 
-Experience
-
+-----Experience-----
 Software Engineer/Program Manager Intern
 Microsoft
 Jul 2020 - Jul 2021
