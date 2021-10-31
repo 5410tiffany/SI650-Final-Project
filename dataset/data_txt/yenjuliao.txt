@@ -1,0 +1,30 @@
+Education
+
+Carnegie Mellon University
+N/A
+Master in Information System Management
+2021-2023
+
+Experience
+
+Technical Assistant Intern
+Microsoft
+Jul 2020 – Oct 2020
+• Assisted enterprises in Taiwan with digital transformation using Microsoft Azure Cloud and Machine Learning.
+• Developed automated process for identifying comments on Twitter with Python web crawler. Built an NLP pipeline using spaCy for text classification and tokenization and combined with Azure for sentiment analysis. Reduced processing time by 33%.
+• Built chatbot with Python and Azure to promote product and interact with potential consumer. Increased 56% click-through rate.
+• Managed database for 3000+ users from Microsoft Internship Program. Applied access control and data protection tool to increase security.
+
+Data Analysis Intern
+Tsaitung Agriculture Internship
+Jan 2020 – Jun 2020
+• Designed an automated customer retention system with Python and SQL to complete weekly client status report for strategy development. Increased customer retention rate by 15%.
+• Tracked weekly and monthly sales data with Python and visualized results with Data Studio. Provided solutions through quantitative analysis.
+• Revamped accounts receivable process and created spreadsheets with Excel VBA. Reduced overdue receivables by 45%.
+
+Auditing and Assurance Intern
+Deloitte Internship
+Jul 2019 – Aug 2019
+• Performed seasonal review and half-year audit with analytical procedures for 4 listed companies.
+• Applied ERP and Excel to check data accuracy. Worked with senior auditors on audit recommendations.
+• Prepared adjusting entries to correct client's compiled financial statements.

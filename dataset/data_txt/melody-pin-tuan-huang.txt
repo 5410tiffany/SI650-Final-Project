@@ -1,0 +1,36 @@
+Education
+
+Carnegie Mellon University
+Master's degree
+Information System Management
+2021-2022
+
+National Chiao Tung University
+Bachelor's degree
+Computer Science
+2016-2020
+
+Experience
+
+Software Engineer/Program Manager Intern
+Microsoft
+Jul 2020 - Jul 2021
+• Designed three repair recommendations that could help 40K+ advertisers locate and fix issues
+• Constructed evaluation (Python) to measure quality of audience suggestion service; identified two metrics to be improved
+• Cooperated with engineers and PMs to design image recommendation feature; analyzed relationship between image usage and ad performance using TB level data (SQL, C#)
+• Performed data analysis to identify cause of performance issue for 10+ customers; formulated SOP to increase work efficiency
+• Composed spec to support two new bidding strategies in planning tool; collaborated with designer and multiple stakeholders
+• Created dashboards (PowerBI) to monitor demand health and performance of each market; built data pipelines to acquire needed information; documented source and process
+
+Software Developer Intern
+Hewlett Packard Enterprise
+Jul 2019 – Jun 2020
+• Designed and developed the frontend (Angular, Typescript, CSS) of administration console.
+• Established a single entry-point for cluster management which provides information including server settings, storage size, disk status, and diagnosis messages.
+• Accumulated more than 5000 downloads since it was first released in March of 2020.
+
+Research Assistant
+Institute of Information Science, Academia Sinica
+Jul 2018 – Jun 2020
+• Implemented discriminative autoencoder (DcAE) on Kaldi by modifying nnet3 and chain library (Bash, Python, C++), reducing the error rate of speech recognition by 3~10% on Mandarin and English corpora. This work is later published in Interspeech2019.
+• Revamped discriminative autoencoder for robust speech recognition and achieved 3~15% error rate reduction on noisy data.
