@@ -1,0 +1,66 @@
+[
+    {
+        "id": "0",
+        "contents": "\u2022 Designed three repair recommendations that could help 40K+ advertisers locate and fix issues"
+    },
+    {
+        "id": "1",
+        "contents": "\u2022 Constructed evaluation (Python) to measure quality of audience suggestion service; identified two metrics to be improved"
+    },
+    {
+        "id": "2",
+        "contents": "\u2022 Cooperated with engineers and PMs to design image recommendation feature; analyzed relationship between image usage and ad performance using TB level data (SQL, C#)"
+    },
+    {
+        "id": "3",
+        "contents": "\u2022 Performed data analysis to identify cause of performance issue for 10+ customers; formulated SOP to increase work efficiency"
+    },
+    {
+        "id": "4",
+        "contents": "\u2022 Composed spec to support two new bidding strategies in planning tool; collaborated with designer and multiple stakeholders"
+    },
+    {
+        "id": "5",
+        "contents": "\u2022 Created dashboards (PowerBI) to monitor demand health and performance of each market; built data pipelines to acquire needed information; documented source and process"
+    },
+    {
+        "id": "6",
+        "contents": "\u2022 Designed and developed the frontend (Angular, Typescript, CSS) of administration console."
+    },
+    {
+        "id": "7",
+        "contents": "\u2022 Established a single entry-point for cluster management which provides information including server settings, storage size, disk status, and diagnosis messages."
+    },
+    {
+        "id": "8",
+        "contents": "\u2022 Accumulated more than 5000 downloads since it was first released in March of 2020."
+    },
+    {
+        "id": "9",
+        "contents": "\u2022 Assisted enterprises in Taiwan with digital transformation using Microsoft Azure Cloud and Machine Learning."
+    },
+    {
+        "id": "10",
+        "contents": "\u2022 Developed automated process for identifying comments on Twitter with Python web crawler. Built an NLP pipeline using spaCy for text classification and tokenization and combined with Azure for sentiment analysis. Reduced processing time by 33%."
+    },
+    {
+        "id": "11",
+        "contents": "\u2022 Built chatbot with Python and Azure to promote product and interact with potential consumer. Increased 56% click-through rate."
+    },
+    {
+        "id": "12",
+        "contents": "\u2022 Managed database for 3000+ users from Microsoft Internship Program. Applied access control and data protection tool to increase security."
+    },
+    {
+        "id": "13",
+        "contents": "\u2022 Designed an automated customer retention system with Python and SQL to complete weekly client status report for strategy development. Increased customer retention rate by 15%."
+    },
+    {
+        "id": "14",
+        "contents": "\u2022 Tracked weekly and monthly sales data with Python and visualized results with Data Studio. Provided solutions through quantitative analysis."
+    },
+    {
+        "id": "15",
+        "contents": "\u2022 Revamped accounts receivable process and created spreadsheets with Excel VBA. Reduced overdue receivables by 45%."
+    }
+]
