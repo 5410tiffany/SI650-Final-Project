@@ -124,7 +124,7 @@ path_urls_profile = 'LinkedIn_profile_urls.txt'
 
 url_sign_in = "https://www.linkedin.com/"
 account = "ben0630884@gmail.com"
-password = "010902084"
+password = "1qazcde3"
 
 
 #url_profile = 'https://www.linkedin.com/in/hsuan-hsueh-huang/'
