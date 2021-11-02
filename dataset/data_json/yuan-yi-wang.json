@@ -1,0 +1,30 @@
+{
+    "Education": [
+        {
+            "school": "Columbia University in the City of New York",
+            "degree": "Master of Science - MS",
+            "major": "Computer Science",
+            "period": "2021 \u2013 2022"
+        },
+        {
+            "school": "The University of Tokyo",
+            "degree": "Exchange Student",
+            "major": null,
+            "period": "2019 \u2013 2020"
+        },
+        {
+            "school": "National Taiwan University",
+            "degree": "Bachelor of Science - BS",
+            "major": "Computer Science & Information Engineering",
+            "period": "2016 \u2013 2020"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "R&D Intern",
+            "company": "\u6c34\u6ef4 Credidi Inc. Internship",
+            "period": "Dec 2020 \u2013 Feb 2021",
+            "description": "\u2022 Deployed Data Warehouse system of a finance app with more than 200K users to Google Cloud Platform\n\u2022 Reduced one hour of daily work by automating data backup from Firebase to Cloud Storage using Python\n\u2022 Established real-time ETL (extract, transform, load) data pipeline through Cloud Pub/Sub and BigQuery\n\u2022 Created interactive overview dashboard and visualized user data analysis report with Data Studio"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Education": [
+        {
+            "school": "UC Irvine",
+            "degree": "Master's degree",
+            "major": "Computer Software Engineering",
+            "period": "2021 \u2013 2022"
+        },
+        {
+            "school": "Chung Yuan Christian University",
+            "degree": "Bachelor of Science - BS",
+            "major": "Information and Computer Engineering",
+            "period": "2013 \u2013 2017"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Software Engineer",
+            "company": "Prime Electronics & Satellitics Inc. Full-time",
+            "period": "Sep 2017 \u2013 Jul 2019",
+            "description": "- Optimized an embedded SPA (single-page application) website in the router with MVC software design pattern leading to increase of maintainability\n- Integrated package source code into Wi-Fi router build system using BASH decreasing time spent on deployment\n- Developed a user friendly Digital Audio Broadcasting software (DAB) with MVVM design pattern to achieve higher maintainability\n- Implemented an internationalization and localization management software to decreasing time spent on managing i18n\n\u2026\nsee more"
+        },
+        {
+            "title": "Software Engineer Intern",
+            "company": "Eastek Technology Co., Ltd. Internship",
+            "period": "Jul 2016 \u2013 Aug 2016",
+            "description": "- Designed and programmed a desktop application for PCB Gerber(RS-274X) file visualization\n- Exploited regular expression and double buffer technique to improve parsing and rendering speed"
+        }
+    ]
+}

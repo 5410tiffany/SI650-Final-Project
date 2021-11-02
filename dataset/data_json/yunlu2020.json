@@ -1,0 +1,24 @@
+{
+    "Education": [
+        {
+            "school": "UC Irvine",
+            "degree": "Master of Computer Science - MCS",
+            "major": "Computer Science",
+            "period": "2020 \u2013 2021"
+        },
+        {
+            "school": "Texas A&M University",
+            "degree": "Bachelor of Science - BS",
+            "major": "Major: Applied Mathematics - Minor: Computer Sience",
+            "period": "2016 \u2013 2020"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Testing And Software Engineer, Summer Intern",
+            "company": "Divergent Internship",
+            "period": "Jun 2021 \u2013 Sep 2021",
+            "description": "\u2022 Maintained regression test routine, including improved testing scrips, added new test cases, and updated baselines from different operating systems.\n\u2022 Improved code coverage rate from 30% to 72% by tripling the number of tests to cover more code branches and detecting more than 200+ lines of dead codes from team project.\n\u2022 Helped migrating team project\u2019s build from gcc to Intel compiler icc/icpc. Managed all c++ third-party libraries by using Conan, adapted cross-building strategy and solved in-capabilities among packages from different compiler.\n\u2022 Provided QA for team project\u2019s new updates and supported c++ documentation through doxygen, breathe, exhale and sphinx.\n\u2026\nsee more"
+        }
+    ]
+}

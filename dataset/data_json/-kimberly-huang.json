@@ -1,0 +1,54 @@
+{
+    "Education": [
+        {
+            "school": "Carnegie Mellon University",
+            "degree": "Master's degree",
+            "major": "Information Systems Management",
+            "period": "2021 \u2013 2022"
+        },
+        {
+            "school": "National Taiwan University",
+            "degree": "Bachelor's degree",
+            "major": "Economics",
+            "period": "2015 \u2013 2019"
+        },
+        {
+            "school": "Peking University",
+            "degree": "Exchange program",
+            "major": "Economics",
+            "period": "2017 \u2013 2018"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Research Assistant (Software development)",
+            "company": "National Taiwan University Full-time",
+            "period": "Sep 2020 \u2013 Jun 2021",
+            "description": "- Tumaz Project: Built an Amazon Sellers Management System using Amazon Marketplace Web Service (Amazon MWS) API; Integrated inventory, order, and advertising data, increasing MoM revenue by 17%\n- New Balance Project (1): Constructed a Django website with CRUD functions for pricing and inventory visualization; improved operation efficiency by 15%\n- New Balance Project (2): Implemented a real-time pricing model based on a Dynamic Programming algorithm; increased QoQ profit by 13% and decreased pricing time by 75%\n- NTU Hospital Project: Deployed a simulation software with a heuristic algorithm to optimize the number of overbooking patients, increasing YoY profit by 33%\n\u2026\nsee more"
+        },
+        {
+            "title": "Management Associate (System Analyst)",
+            "company": "Nan Shan Life Insurance Co., Ltd Full-time",
+            "period": "Jul 2019 \u2013 Jul 2020",
+            "description": "- Coordinated the system integration project between claim database and CRM database, accelerating process of claims by 1 business day; resulted in a 17% increase in market share\n- Initiated a system migration project to transferred four separate systems into a new integrated system, deducting correspondence time by 43% and efficiency by 34%.\n- Redesigned the UI of consumer apps by conducting 100+ interviews, boosting customer satisfaction rate by 23%\n\u2026\nsee more"
+        },
+        {
+            "title": "Data Scientist",
+            "company": "DSP, Inc. Internship",
+            "period": "Jan 2019 \u2013 Apr 2019",
+            "description": "- Pioneered using ML models to quantify the risk levels of domestic violence cases for Taoyuan City Government\n- Predicted recidivism rate based on XGBoost algorithm with an 80% accuracy\n- Classified victims and provided customized domestic violence support recommendations by building K-modes model in Python\n\u2026\nsee more"
+        },
+        {
+            "title": "Project Manager",
+            "company": "Fubon Financial Holding Co., Ltd. \u5bcc\u90a6\u91d1\u63a7 Internship",
+            "period": "Sep 2018 \u2013 Jan 2019",
+            "description": "- Participated in the membership integration project across subsidiaries of Fubon Group (across bank/insurance/securities/telecom/e-commerce), responsible for membership program design and membership data integration system planning.\n- Investigated domestic and foreign Fintech technology and startups to find out new business niches for cooperation between Fubon Group and the startups.\n\u2026\nsee more"
+        },
+        {
+            "title": "Strategy Analyst",
+            "company": "Dell Internship",
+            "period": "Jul 2018 \u2013 Aug 2018",
+            "description": "- Initialized \u201cDell\u2019s business strategy in China under Trade War\u201d research project in collaboration with Austin headquarters interns. Contributed to the quarterly strategy report.\n- Generated China server market analysis report. Including analyzing sales performance data, classifying manufacturers, and organizing official financial reports.\n\u2026\nsee more"
+        }
+    ]
+}

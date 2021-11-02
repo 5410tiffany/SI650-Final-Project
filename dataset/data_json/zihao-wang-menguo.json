@@ -1,0 +1,36 @@
+{
+    "Education": [
+        {
+            "school": "UC Irvine",
+            "degree": "Master's degree",
+            "major": "CS",
+            "period": "2020 \u2013 2021"
+        },
+        {
+            "school": "University of California, Los Angeles",
+            "degree": "Bachelor of Applied Science - BASc",
+            "major": "Statistics",
+            "period": "2016 \u2013 2018"
+        },
+        {
+            "school": "Irvine Valley College",
+            "degree": "Bachelor's degree",
+            "major": "Math",
+            "period": "2014 \u2013 2016"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Software Engineer",
+            "company": "Brix Labs Full-time",
+            "period": "Jan 2020 \u2013 Jul 2020",
+            "description": "Haier Amazon seller platform\n\u25cf Had meetings with Haier\u2019s project managers, searched and demonstrated business solutions based on requirements, developed demos, and reached cooperation with Haier.\n\u25cf Amazon web crawler demo for Haier: designed and developed web crawlers based on Python - Scrapy framework. Calculated the natural rank and ad rank of products with multiple specific keywords.\n\nAir Zebra Oversea Purchase Application\n\u25cf Supervised a team of 5 engineers across 2 locations and 2 time zones; demonstrated solutions to Air Zebra, maintained daily meetings for reporting progress and managed schedules by using gitlabs.\n\u25cf Met 100% of deadlines and project goals and as a result, received remaining payment from Air Zebra.\n\u25cf Searched, designed, and developed a root-based Chinese chatbot based on Python - Rasa framework which aims to avoid repeated questions from customers, including greeting, checking/canceling orders, checking shpping, etc.\n\u2026\nsee more"
+        },
+        {
+            "title": "Data Analyst",
+            "company": "Data Application Lab Full-time",
+            "period": "Jul 2019 \u2013 Sep 2019",
+            "description": "\u25cf Led a team to research the most based and far-out applications in data analyst/scientist field based on industries.\n\u25cf Based on researching program, we used R or Python to develop more than 40 projects as data challenges of real-world application. The real-world applications enhanced 10%~15% of students find a data relative job after Bootcamp.\n\u25cf As teaching assistant reviewed student's real-world application projects and presentation gave some feedbacks/suggestions and trained student's R, python, SQL though TA sessions. Also, developed and maintained technique questions bank.\n\u25cf Development of courseware & editing course textbooks and lecture and assisting teachers with the basic courses of data mining, preparation, visualization, algorithm, machine learning, A/B testing and probability & Statistics.\n\u2026\nsee more"
+        }
+    ]
+}

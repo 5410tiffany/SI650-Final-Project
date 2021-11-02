@@ -1,0 +1,42 @@
+{
+    "Education": [
+        {
+            "school": "UC Irvine",
+            "degree": "Master of Science - MS",
+            "major": "Computer Engineering",
+            "period": "2020 \u2013 2021"
+        },
+        {
+            "school": "UC Irvine",
+            "degree": "Bachelor's degree",
+            "major": "Computer Software Engineering",
+            "period": "2014 \u2013 2019"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Full Stack Engineer Co-op",
+            "company": "IBM Internship",
+            "period": "May 2021 \u2013 Present",
+            "description": null
+        },
+        {
+            "title": "Software Developer",
+            "company": "UCI Samueli School of Engineering Part-time",
+            "period": "Mar 2019 \u2013 Sep 2019",
+            "description": "- Developed a data visualization system for wearable medical devices with a team of 3.\n- Implemented and tested a microservice application to process, monitoring and plotting pressure data\n- Developed a multithreading data parsing algorithms dispatcher which could reduce task average waiting time by 30%.\n- Developed and tested a python client for users to interact with the device.\n- Analysis the data and solving the latency and accuracy issue with MATLAB and Python.\n\u2026\nsee more"
+        },
+        {
+            "title": "Software Engineer Internship",
+            "company": "Tsinghua Unigroup Internship",
+            "period": "Jun 2018 \u2013 Aug 2018",
+            "description": "- Interned at self-driving team and participated in testing and analyzing the performance of prediction modules. And implemented unifying and merging the outputs of independent perception modules.\n- Wrote the internal documentation and implemented linting and formatting to improve code readability\nand increase developer productivity.\n\u2026\nsee more"
+        },
+        {
+            "title": "Information System Intern",
+            "company": "Teradata Internship",
+            "period": "Jun 2014 \u2013 Aug 2014",
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Education": [
+        {
+            "school": "Carnegie Mellon University",
+            "degree": "Master of Science - MS",
+            "major": "Computer Engineering",
+            "period": "2021 \u2013 2023"
+        },
+        {
+            "school": "University of Maryland",
+            "degree": "Bachelor of Science - BS",
+            "major": "Electrical Engineering",
+            "period": "2017 \u2013 2021"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "ECE Undergraduate Teaching Assistant",
+            "company": "University of Maryland - A. James Clark School of Engineering Part-time",
+            "period": "Jan 2021 \u2013 May 2021",
+            "description": "ENEE205\nAssisted professor with curriculum and course planning; compiled literature that best support learning materials and topics\nLed students' recitation and lab sessions, while holding office hours to help reinforce topics delivered during lecture\nConducted evaluation of students' exams and assignments"
+        },
+        {
+            "title": "Machine Learning Engineer Intern",
+            "company": "STEM-Away Internship",
+            "period": "Jun 2020 \u2013 Aug 2020",
+            "description": "Created web crawlers through Python library Scrapy and BeautifulSoup to extract data (40K+ entries) from Discourse Forums\nManaged project for data cleaning and reconciliation, as well as analyzing data using Python library Pandas and Numpy\nCollaborated with a partner to develop forum classifier using BERT and Word2Vec Natural Language Processing models to predict forum for the given posts\n\u2026\nsee more"
+        }
+    ]
+}

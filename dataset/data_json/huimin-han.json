@@ -1,0 +1,54 @@
+{
+    "Education": [
+        {
+            "school": "Virginia Tech",
+            "degree": "Master's degree",
+            "major": "Computer Science",
+            "period": "2021 \u2013 2022"
+        },
+        {
+            "school": "University of Maryland",
+            "degree": "Master's degree",
+            "major": "Business Analytics",
+            "period": "2018 \u2013 2019"
+        },
+        {
+            "school": "Capital University of Medical Sciences",
+            "degree": "Bachelor's degree",
+            "major": "Public Health",
+            "period": "2014 \u2013 2018"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Research Asistant",
+            "company": "Virginia Tech College of Engineering",
+            "period": "May 2021 \u2013 Present",
+            "description": "InfoVis Lab, Sanghani Center for Artificial Intelligence and Data Analytics"
+        },
+        {
+            "title": "Data Analyst",
+            "company": "Sanofi",
+            "period": "Apr 2020 \u2013 Jan 2021",
+            "description": "\u2022 Performed ETL on clinical data, integrated data from internal clinical databases(Oracle, Teradata, and MySQL) and external data sources (CSV and outsourced databases), developed and maintained an online Intelligent Medical Review Platform which digitize the central monitoring tools, data validation processes\n\u2022 Visualized the results of the analysis, created dashboard with interactive visualization designs using Vega (https://vega.github.io/vega/).\n\u2022 Developed a \"Patient Pro\fle Generator\" utilizing Jinja2 and Observer Pattern\n\u2026\nsee more"
+        },
+        {
+            "title": "Research Assistant",
+            "company": "Center for Health Information & Decision Systems (CHIDS)",
+            "period": "Aug 2019 \u2013 Jan 2020",
+            "description": "\u2022 Work with Inovalon, a leading provider of cloud-based platforms empowering data-driven healthcare, on predictive modeling projects, utilize history data to predict important outcome in healthcare field like pharmacy storage, patients cost, etc.\n\u2022 Utilized Chronic Condition Indicator (CCI) to categorize ICD-9-CM diagnosis codes into one of two categories: chronic or not chronic, created this binary feature of the datasets (records of patients\u2019 visits to hospital), fitted deep learning model on datasets and provide insightful information for research of LSTM model performance.\n\u2026\nsee more"
+        },
+        {
+            "title": "Graduate Teaching Assistant | Information System and Business Analytics programs",
+            "company": "University of Maryland",
+            "period": "Mar 2019 \u2013 Dec 2019",
+            "description": "\u2022 Work for Dean's Professor and assist the professor in preparing course materials. Main topics covered are linear, nonlinear optimization applications in a wide variety of industry segments, Monte-Carlo Simulation, and risk assessment\n\u2022 Evaluate students\u2019 data modeling assignments and provide instruction to students during weekly office hours\n\u2026\nsee more"
+        },
+        {
+            "title": "Data Analyst Intern",
+            "company": "Xuanwu Hospital Internship",
+            "period": "Oct 2017 \u2013 May 2018",
+            "description": null
+        }
+    ]
+}

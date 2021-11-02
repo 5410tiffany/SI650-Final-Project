@@ -1,0 +1,30 @@
+{
+    "Education": [
+        {
+            "school": "UC San Diego",
+            "degree": "Master of Science - MS",
+            "major": "Electrical and Computer Engineering",
+            "period": "2021 \u2013 2023"
+        },
+        {
+            "school": "National Tsing Hua University",
+            "degree": "Bachelor of Science - BS",
+            "major": "Electrical and Electronics Engineering",
+            "period": "2015 \u2013 2019"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Software Engineer",
+            "company": "Augentix Inc. Full-time",
+            "period": "Aug 2020 \u2013 Aug 2021",
+            "description": "\u2022 Designed and backported Linux SDC driver to support SD3.0 spec which supports voltage switch to reduce 45% power consumption and SDR25 to increase 70% transmission speed.\n\u2022 Developed UVC camera application and revised Linux USB driver which supports single-channel streaming up to 2.5K resolution to increase FPS from 20 to 30.\n\u2022 Developed Linux AON_WDT driver which provides system reboot function and customized timeout settings to avoid system idleness and system hang and reduce 30% unnecessary power consumption.\n\u2022 Collaborated with more than 20 co-workers among various teams such as Circuit Design, Quality Assurance, and Customer Support Team to add new functionalities and solve more than 20 bugs.\n\u2026\nsee more"
+        },
+        {
+            "title": "Web Development Intern",
+            "company": "Argo International Corporation Internship",
+            "period": "Jul 2018 \u2013 Aug 2018",
+            "description": "\u2022 Transferred traditional local-based ERP system to a cloud-based web application which provides enormous functionality such as management accounting, financial accounting, order processing, etc.\n\u2022 Developed CRUD functionality on management accountings system with dropdown menu, auto-complete, and searching features via AngularJS and AJAX.\n\u2022 Implemented Responsive Web Design (RWD) via bootstrap to provide user-friendly interfaces.\n\u2026\nsee more"
+        }
+    ]
+}

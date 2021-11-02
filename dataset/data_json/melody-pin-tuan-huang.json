@@ -4,27 +4,33 @@
             "school": "Carnegie Mellon University",
             "degree": "Master's degree",
             "major": "Information System Management",
-            "period": "2021-2022"
+            "period": "2021 \u2013 2022"
         },
         {
             "school": "National Chiao Tung University",
             "degree": "Bachelor's degree",
             "major": "Computer Science",
-            "period": "2016-2020"
+            "period": "2016 \u2013 2020"
         }
     ],
     "Experience": [
         {
             "title": "Software Engineer/Program Manager Intern",
-            "company": "Microsoft",
-            "period": "Jul 2020 - Jul 2021",
-            "description": "\u2022 Designed three repair recommendations that could help 40K+ advertisers locate and fix issues\n\u2022 Constructed evaluation (Python) to measure quality of audience suggestion service; identified two metrics to be improved\n\u2022 Cooperated with engineers and PMs to design image recommendation feature; analyzed relationship between image usage and ad performance using TB level data (SQL, C#)\n\u2022 Performed data analysis to identify cause of performance issue for 10+ customers; formulated SOP to increase work efficiency\n\u2022 Composed spec to support two new bidding strategies in planning tool; collaborated with designer and multiple stakeholders\n\u2022 Created dashboards (PowerBI) to monitor demand health and performance of each market; built data pipelines to acquire needed information; documented source and process"
+            "company": "Microsoft Full-time",
+            "period": "Jul 2020 \u2013 Jul 2021",
+            "description": "\u2022 Designed three repair recommendations that could help 40K+ advertisers locate and fix issues\n\u2022 Constructed evaluation (Python) to measure quality of audience suggestion service; identified two metrics to be improved\n\u2022 Cooperated with engineers and PMs to design image recommendation feature; analyzed relationship between image usage and ad performance using TB level data (SQL, C#)\n\u2022 Performed data analysis to identify cause of performance issue for 10+ customers; formulated SOP to increase work efficiency\n\u2022 Composed spec to support two new bidding strategies in planning tool; collaborated with designer and multiple stakeholders\n\u2022 Created dashboards (PowerBI) to monitor demand health and performance of each market; built data pipelines to acquire needed information; documented source and process\n\u2026\nsee more"
         },
         {
             "title": "Software Developer Intern",
-            "company": "Hewlett Packard Enterprise",
+            "company": "Hewlett Packard Enterprise Internship",
             "period": "Jul 2019 \u2013 Jun 2020",
-            "description": "\u2022 Designed and developed the frontend (Angular, Typescript, CSS) of administration console.\n\u2022 Established a single entry-point for cluster management which provides information including server settings, storage size, disk status, and diagnosis messages.\n\u2022 Accumulated more than 5000 downloads since it was first released in March of 2020."
+            "description": "\u2022 Designed and developed the frontend (Angular, Typescript, CSS) of administration console.\n\u2022 Established a single entry-point for cluster management which provides information including server settings, storage size, disk status, and diagnosis messages.\n\u2022 Accumulated more than 5000 downloads since it was first released in March of 2020.\n\u2026\nsee more"
+        },
+        {
+            "title": "Research Assistant",
+            "company": "Institute of Information Science, Academia Sinica Part-time",
+            "period": "Jul 2018 \u2013 Jun 2020",
+            "description": "\u2022 Implemented discriminative autoencoder (DcAE) on Kaldi by modifying nnet3 and chain library (Bash, Python, C++), reducing the error rate of speech recognition by 3~10% on Mandarin and English corpora. This work is later published in Interspeech2019.\n\u2022 Revamped discriminative autoencoder for robust speech recognition and achieved 3~15% error rate reduction on noisy data.\n\u2026\nsee more"
         }
     ]
 }

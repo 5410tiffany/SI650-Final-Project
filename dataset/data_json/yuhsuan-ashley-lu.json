@@ -1,0 +1,36 @@
+{
+    "Education": [
+        {
+            "school": "University of Southern California",
+            "degree": "Master of Science - MS",
+            "major": "Computer Science",
+            "period": "2021 \u2013 2023"
+        },
+        {
+            "school": "Czech Technical University in Prague",
+            "degree": "Exchange student",
+            "major": "Industrial Engineering",
+            "period": "2018 \u2013 2018"
+        },
+        {
+            "school": "National Taipei University of Technology",
+            "degree": "Bachelor of Science - BS",
+            "major": "Industrial Engineering",
+            "period": "2014 \u2013 2018"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Software Engineer",
+            "company": "Wistron Full-time",
+            "period": "Aug 2019 \u2013 May 2021",
+            "description": "\u2022 Work with OS and device driver vendors in Taiwan, China, India and other global offices to develop, debug and handle system software issues by analyzing dump files and using programming tool to change configuration settings for major notebook manufacturing clients, such as Lenovo"
+        },
+        {
+            "title": "Software Developer",
+            "company": "TopOne Information Full-time",
+            "period": "Jul 2018 \u2013 Jul 2019",
+            "description": "\u2022 Utilized ASP.Net and MySQL to support Cloud-based Enterprise Resource Planning (ERP) system development\n\u2022 Worked with UI/UX designers to redesign and improve user experience for Web-based ERP systems by unifying the buttons, layout and UI flow across each function\n\u2022 Reports Creation \u2013 Retrieved data and created clear and effective reports, including quotes, customer orders, stock tracking, BOM lists, etc. for client needs in different industries\n\u2026\nsee more"
+        }
+    ]
+}

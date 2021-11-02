@@ -1,0 +1,42 @@
+{
+    "Education": [
+        {
+            "school": "University of Washington",
+            "degree": "Master's degree",
+            "major": "Electrical and Computer Engineering",
+            "period": "2021 \u2013 2023"
+        },
+        {
+            "school": "National Chiao Tung University",
+            "degree": "Master of Science - MS",
+            "major": null,
+            "period": "2017 \u2013 2020"
+        },
+        {
+            "school": "National Chiao Tung University",
+            "degree": "Master of Science - MS",
+            "major": null,
+            "period": null
+        },
+        {
+            "school": "City University of Hong Kong",
+            "degree": "Bachelor of Engineering - BE",
+            "major": "Computer Engineering",
+            "period": "2012 \u2013 2017"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Software Engineer",
+            "company": "Synopsys Inc Full-time",
+            "period": "Oct 2020 \u2013 Sep 2021",
+            "description": "Implemented error handling, time and memory profiling, and communication between master and worker nodes for distributed compilation. Support on x86 as well as ARM machines.\nFixed and maintained incremental compilation, which reduces compile time for Verilog designs on a module level by recognizing modules which do not require recompilation."
+        },
+        {
+            "title": "Autonomous Driving R&D Intern",
+            "company": "Industrial Technology Research Institute (ITRI)(\u5de5\u696d\u6280\u8853\u7814\u7a76\u9662, \u5de5\u7814\u9662) Internship",
+            "period": "Jun 2018 \u2013 Dec 2018",
+            "description": "Directly Responsible Individual for visual-inertial odometry (VIO) module.\nSurvey recent advances in VIO as well as deploy and test VIO on self-driving cars extensively under diverse road conditions.\nImproved VIO failure detection module by incorporating vehicle motion constraints into the original algorithm.\n\u2026\nsee more"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Education": [
+        {
+            "school": "University of Washington",
+            "degree": "Bachelor of Science - BS",
+            "major": "Computer Science",
+            "period": "2018 \u2013 2022"
+        },
+        {
+            "school": "CodePath",
+            "degree": "Technical Interview Prep Course",
+            "major": null,
+            "period": "2021 \u2013 2021"
+        },
+        {
+            "school": "South Seattle College",
+            "degree": "Associate's degree",
+            "major": null,
+            "period": "2017 \u2013 2018"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Software Engineer Intern",
+            "company": "Pierce County Internship",
+            "period": "Aug 2021 \u2013 Present",
+            "description": "* Performing scrum rituals on a day to day bases such as standups and planning meetings\n* Developing features on a product used by 1000s of people around Pierce County to help understand the housing\n* Utilizing Java and JavaScript to fix bugs, develop features, and push hotfixes on core products\n* Assisted senior engineers and managers in developing plans for future development of products"
+        },
+        {
+            "title": "Computer Science Grader",
+            "company": "University of Washington",
+            "period": "Jan 2021 \u2013 Mar 2021",
+            "description": "* Worked with the instructor to develop a strategy and structure of how grades should be processed and handled\n* Developed test scripts using Python to reduce grading time by 50% of the time it took\n* Provided advice to dozens of students to help them succeed in the Programing courses\n* Looked through hundreds of C assignments to review and grade\n\u2026\nsee more"
+        },
+        {
+            "title": "Grocery Associate",
+            "company": "Amazon",
+            "period": "Sep 2018 \u2013 Jan 2019",
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Education": [
+        {
+            "school": "Stanford University",
+            "degree": "Master's degree",
+            "major": "Materials Science and Engineering",
+            "period": "2020 \u2013 2022"
+        },
+        {
+            "school": "University of Pittsburgh Swanson School of Engineering",
+            "degree": "Bachelor's degree",
+            "major": "Materials Science",
+            "period": "2019 \u2013 2020"
+        },
+        {
+            "school": "Sichuan University",
+            "degree": "Bachelor of Engineering - BE",
+            "major": "Materials Science and Engineering",
+            "period": "2016 \u2013 2020"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Software Engineer Intern",
+            "company": "Alibaba.com Full-time",
+            "period": "Jun 2021 \u2013 Sep 2021",
+            "description": "Alibaba DChain-Purchasing & Sales Supply Chain Backend Intern (Java)\nSolved 0.05M+ on-hold online refund orders to facilitate the consignment payment process for suppliers by Alibaba\n\u2022 As part of the team, grasped the consignment business and reconstructed the online system\n\u2022 Improved online refund order processing flow using MQ to build interactions between purchase and refund order flow\n\u2022 Implemented stable and accurate cache to synchronize cross-system data under a high QPS environment\n\u2022 Designed distribution lock using cache to avoid inconsistent data within a high-concurrency environment\n\u2026\nsee more"
+        }
+    ]
+}

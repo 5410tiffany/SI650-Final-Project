@@ -1,0 +1,48 @@
+{
+    "Education": [
+        {
+            "school": "Northeastern University",
+            "degree": "Graduate",
+            "major": "Computer Engineering",
+            "period": "2019 \u2013 2021"
+        },
+        {
+            "school": "Xi'an Jiaotong University",
+            "degree": "Bachelor's degree",
+            "major": "Computer Engineering (Youth Program)",
+            "period": "2015 \u2013 2019"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Software Development Engineer",
+            "company": "Amazon Internship",
+            "period": "May 2021 \u2013 Aug 2021",
+            "description": "Designed and developed a cloud-based server-less web application providing Json schema observations in time series by Java 8 and TypeScript.\n- Implemented a Json schema watch service using AWS ECS to save observations such as frequency of Json field type, statistics including min, max, average in AWS Timestream database.\n- Built a Java library to integrate data stream handler with Json schema watch service and process data by converting raw data notification from AWS SQS to schema observations in cache.\n- Developed a front-end webpage to display schema observations in time series charts by React.\n\nImpact: It helps Alexa scientists to create downstream transformation processes to gracefully handle the data field structure. Data consumer could have access to the evolution of their data\u2019s schema over time. It allows customers to root cause issues without having to manually search logs and pull individual data objects out of Datamart just to figure out what happened to a certain field.\n\u2026\nsee more"
+        },
+        {
+            "title": "Software Engineer",
+            "company": "PhAST Internship",
+            "period": "Jan 2021 \u2013 Apr 2021",
+            "description": "Designed and developed a cloud-based server-less log system with web display providing developers with cleaned and classified patient log data by Java 11, HTML/CSS and JavaScript.\n- Retrieved logs from AWS Cloudwatch by AWS Lambda, processed the logs by splitting and rearranging, adding sources and priorities as prefixes. And stored them in AWS DynamoDB. Reduced query cost by building two databases to save log batch and log instance respectively.\n- Integrated querying through AWS Lambda API and rendering the results on webpage.\n\nBuilt schema of services using AWS Cloudformation including log system, AWS Dashboard and Warning service, cross-account IAM role config, S3 Storage buckets and pipelines.\n\nSolved the interface flickering problem in some events of the microscope C# GUI, by freezing the window and unfreezing asynchronously.\n\u2026\nsee more"
+        },
+        {
+            "title": "Perceptual Algorithm Engineer",
+            "company": "Tsinghua University Internship",
+            "period": "Jul 2019 \u2013 Aug 2019",
+            "description": "Redesigned and developed perceptual algorithms for obstacle detection and tracking on intelligent industry truck based on OpenCV and C++. Analyzed radar point cloud data by methods of re-sampling, clustering and filtering. Quantified test results of model based on scikit-learning. Improved the tracking accuracy by 7%, meanwhile decreasing the false positive rate by 12%.\n\u2026\nsee more"
+        },
+        {
+            "title": "Research Intern",
+            "company": "Pohang University of Science and Technology Internship",
+            "period": "Jun 2018 \u2013 Sep 2018",
+            "description": "Developed a blockchain-based Decentralized Application (DApp) for music idol public voting in TV shows, features including ticket processing, voting, ranking board and shopping cart, etc. Deployed back-end smart contract to Ethereum Mainnet by Solidity and front-end display websites by Vue.js, and built interaction between them by Node.js.\n\u2026\nsee more"
+        },
+        {
+            "title": "Algorithm Reseach Engineer",
+            "company": "KDDI R&D Laboratories Inc. Internship",
+            "period": "Jul 2017 \u2013 Aug 2017",
+            "description": "Improved a training program of indoor activity recognition by faster-rcnn in Python. Increased person recognition rate of 11% by preprocessing the original data by resizing and histogram equalization. Decreased model false-negative by 29% using Non-Maximum Suppression (NMS) to streamline duplicate results.\n\u2026\nsee more"
+        }
+    ]
+}

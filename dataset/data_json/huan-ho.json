@@ -1,0 +1,36 @@
+{
+    "Education": [
+        {
+            "school": "University of California, San Diego - Jacobs School of Engineering",
+            "degree": "Master of Science - MS",
+            "major": "Computer Science",
+            "period": "2021 \u2013 2023"
+        },
+        {
+            "school": "North Dakota State University",
+            "degree": "Undergraduate",
+            "major": "BS, Computer Science; BS,Statistics; Minor in Honors",
+            "period": "2017 \u2013 2021"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Software Engineering Intern",
+            "company": "Upper Great Plains Transportation Institute DOT Support Center Internship",
+            "period": "Oct 2019 \u2013 May 2021",
+            "description": "- Research, implement, debug, and test several projects for the North Dakota Department of Transportation and other agencies\n- Implement front-end and back-end for various projects with multiple programming languages and platforms, including ASP.NET, MVC, React.js, Node.js, JavaScript, C#, SQL, and Python\n- Practice and utilize real-world software development cycle on several projects\n- Here are the links to some of the projects that I had worked on:\nhttps://www.dot.nd.gov/dotnet/techcert/#/register\nhttps://dotsc.ugpti.ndsu.nodak.edu/TWC_Primary/\n\u2026\nsee more"
+        },
+        {
+            "title": "CRLA certified tutor",
+            "company": "NDSU Student Success Program Part-time",
+            "period": "Jan 2018 \u2013 May 2021",
+            "description": "\u2022 Hone problems solving skills by tutoring students in a variety of areas including but not limited to computer science, math, and statistics.\n\u2022 Enhance debugging skills by assisting students on their coding projects.\n\u2022 Develop communication skills by explaining how to solve specific problems to students.\n\u2026\nsee more"
+        },
+        {
+            "title": "Student Associate",
+            "company": "NDSU Card Center",
+            "period": "Aug 2018 \u2013 Oct 2019",
+            "description": "\u2022 Listen to and provide excellent services to diverse customers with relative business.\n\u2022 Apply concentration ability by operating computer system correctly.\n\u2022 Demonstrate attention to detail and integrity by ensuring accurate cash count and daily account balances.\n\u2026\nsee more"
+        }
+    ]
+}

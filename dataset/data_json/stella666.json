@@ -1,0 +1,30 @@
+{
+    "Education": [
+        {
+            "school": "University of Southern California",
+            "degree": "Master's degree",
+            "major": "Electrical and Electronics Engineering",
+            "period": "2020 \u2013 2022"
+        },
+        {
+            "school": "Shandong Jianzhu University",
+            "degree": "Bachelor's degree",
+            "major": "Electrical and Electronics Engineering",
+            "period": "2015 \u2013 2019"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Product Development Intern",
+            "company": "VMware Full-time",
+            "period": "May 2021 \u2013 Aug 2021",
+            "description": "\u2022 Worked with NSX group, involved in designing testbed for virtual smartnic(network interface controller) using Colibri framework in Python on Linux virtual machine.\n\u2022 Deployed and configured a linux server topology for Smartnic Unit Testing, to test packet capture feature on smartnic simulator.\n\u2022 Found high priority networking bugs and collaborated with teams to fix the bugs.\n\u2022 Designed testing procedure of Arping util on ESXi (hypervisor used for server virtualization), migrated arping tools from linux to ESXi.\n\u2026\nsee more"
+        },
+        {
+            "title": "Research Assistant Intern",
+            "company": "Chinese Academy of Sciences Part-time",
+            "period": "Jul 2017",
+            "description": "\u2022 Built a system to provide Location-Based Services (LBS) to users to query nearby taxis in real time by using grid-based index.\n\u2022 Developed a prototype algorithm to quickly query and update taxis locations by using doublely circular linkedlist and hash table.\n\u2022 Implemented the k-nearest neighbors (KNN) algorithm to display nearby available taxis to clients, also used min-heap to speed up nearest neighbors searching process.\n\u2026\nsee more"
+        }
+    ]
+}

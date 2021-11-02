@@ -1,0 +1,42 @@
+{
+    "Education": [
+        {
+            "school": "University of Southern California",
+            "degree": "Master's degree",
+            "major": "Computer Engineering",
+            "period": "2019 \u2013 2022"
+        },
+        {
+            "school": "Wuhan University of Technology",
+            "degree": "Bachelor's degree",
+            "major": "Automation",
+            "period": "2015 \u2013 2019"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Software Engineer Intern",
+            "company": "eBay Internship",
+            "period": "Mar 2021 \u2013 Jul 2021",
+            "description": "- Deployed Kubernetes and HDFS in sandbox and used POSIX API to mount Hadoop in VFS through Alluxio-FUSE.\n- Verified the system feasibility, debugged Alluxio source code and prompted three system designs to solve kernel permission problems when Alluxio runs on production Kubernetes.\n- Formulated new Alluxio data layer solution in AI platform, which simplified the way to read files from HDFS. It greatly improved first reading efficiency by 10% and repeated reading efficiency by over 50%."
+        },
+        {
+            "title": "Java Software Engineer Intern",
+            "company": "\u767e\u5ea6 Internship",
+            "period": "Sep 2020 \u2013 Mar 2021",
+            "description": "- Developed RESTful API for error destination to store missed messages and retry to route based on Springboot, MyBatis, MySQL, Redis and Thread Pool, which reduced missed messages from 3000 to 100 each hour.\n- Increased the branch coverage of Unit Tests and Logic Integration Tests by Junit and Mockito from 25% to 75%, which checked the validity of the business code and revised logical errors.\n- Fixed logical bugs like accidental Kafka certificate deletion and added quota limitation for billing statistics, which decreased server crash time from 1 hour a week to 30 minutes.\n- Routed and dispatched messages in coordinator module via Consistent Hash and upgraded gRPC with protobuf from one-way blocking to bidirectional streaming. This increased message routing speed from 700 mps to 1000 mps and significantly optimized system throughput over 40%.\n- Configured monitoring in IoT Core Platform based on Prometheus and set alarm strategies by RegEx. Processed log priority based on log4j2 which made it easier to filter useful error logs\n\u2026\nsee more"
+        },
+        {
+            "title": "Software Engineer Intern",
+            "company": "\u5fae\u8f6f Internship",
+            "period": "Jun 2020 \u2013 Sep 2020",
+            "description": "- Researched and designed a tool to generate the accurate flighting expressions in .ini files via C# and .NET framework.\n- Deserialized .blob config files for ECS/Cerberus backend server to JSON.\n- Extracted flighting configuration expressions according to schema in .bond files.\n- The tools directly generated the correct information, limited to 5 minutes by manual search which greatly improved the efficiency of on call detection.\n\u2026\nsee more"
+        },
+        {
+            "title": "Information Technology intern",
+            "company": "IKD Co. LTD \u7231\u67ef\u8fea\u80a1\u4efd\u6709\u9650\u516c\u53f8 Internship",
+            "period": "Jan 2018 \u2013 Feb 2018",
+            "description": "\u2022 Designed and tested Restful API, developed a general-purpose Servlet and Abstract Class for resources CRUD by Spring, Strategy Pattern, JDBC, MySQL, Jetty and etc.\n\u2022 Implemented data models with MySQL to meet the ERP, MES system demand.\n\u2022 Developed a simple web application that enables administrators and users to check the daily production data in factory by AWS.\n\u2022 Deployed static resources (HTML, CSS, js) user interface for displaying different data type on AWS Amplify Console and realized a RESTful web service to submit the request and display the results.\n\u2022 Provides a persistence layer in DynamoDB and data can be stored by the API's Lambda function.\n\u2026\nsee more"
+        }
+    ]
+}

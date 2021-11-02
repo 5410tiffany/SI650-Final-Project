@@ -2,9 +2,9 @@
     "Education": [
         {
             "school": "Carnegie Mellon University",
-            "degree": "N/A",
+            "degree": null,
             "major": "Master in Information System Management",
-            "period": "2021-2023"
+            "period": "2021 \u2013 2023"
         }
     ],
     "Experience": [
@@ -12,13 +12,19 @@
             "title": "Technical Assistant Intern",
             "company": "Microsoft",
             "period": "Jul 2020 \u2013 Oct 2020",
-            "description": "\u2022 Assisted enterprises in Taiwan with digital transformation using Microsoft Azure Cloud and Machine Learning.\n\u2022 Developed automated process for identifying comments on Twitter with Python web crawler. Built an NLP pipeline using spaCy for text classification and tokenization and combined with Azure for sentiment analysis. Reduced processing time by 33%.\n\u2022 Built chatbot with Python and Azure to promote product and interact with potential consumer. Increased 56% click-through rate.\n\u2022 Managed database for 3000+ users from Microsoft Internship Program. Applied access control and data protection tool to increase security."
+            "description": "\u2022 Assisted enterprises in Taiwan with digital transformation using Microsoft Azure Cloud and Machine Learning.\n\u2022 Developed automated process for identifying comments on Twitter with Python web crawler. Built an NLP pipeline using spaCy for text classification and tokenization and combined with Azure for sentiment analysis. Reduced processing time by 33%.\n\u2022 Built chatbot with Python and Azure to promote product and interact with potential consumer. Increased 56% click-through rate.\n\u2022 Managed database for 3000+ users from Microsoft Internship Program. Applied access control and data protection tool to increase security.\n\u2026\nsee more"
         },
         {
             "title": "Data Analysis Intern",
             "company": "Tsaitung Agriculture Internship",
             "period": "Jan 2020 \u2013 Jun 2020",
-            "description": "\u2022 Designed an automated customer retention system with Python and SQL to complete weekly client status report for strategy development. Increased customer retention rate by 15%.\n\u2022 Tracked weekly and monthly sales data with Python and visualized results with Data Studio. Provided solutions through quantitative analysis.\n\u2022 Revamped accounts receivable process and created spreadsheets with Excel VBA. Reduced overdue receivables by 45%."
+            "description": "\u2022Designed an automated customer retention system with Python and SQL to complete weekly client status report for strategy development. Increased customer retention rate by 15%.\n\u2022 Tracked weekly and monthly sales data with Python and visualized results with Data Studio. Provided solutions through quantitative analysis.\n\u2022 Revamped accounts receivable process and created spreadsheets with Excel VBA. Reduced overdue receivables by 45%.\n\u2026\nsee more"
+        },
+        {
+            "title": "Auditing and Assurance Intern",
+            "company": "Deloitte Internship",
+            "period": "Jul 2019 \u2013 Aug 2019",
+            "description": "\u2022 Performed seasonal review and half-year audit with analytical procedures for 4 listed companies.\n\u2022 Applied ERP and Excel to check data accuracy. Worked with senior auditors on audit recommendations.\n\u2022 Prepared adjusting entries to correct client's compiled financial statements.\n\u2026\nsee more"
         }
     ]
 }

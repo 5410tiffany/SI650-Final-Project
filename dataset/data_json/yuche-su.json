@@ -1,0 +1,30 @@
+{
+    "Education": [
+        {
+            "school": "UC Irvine",
+            "degree": "Master's degree",
+            "major": "Master of Software Engineering",
+            "period": "2021 \u2013 2022"
+        },
+        {
+            "school": "National Chiao Tung University",
+            "degree": "Non-Degree Student",
+            "major": "Computer Science",
+            "period": "2019 \u2013 2019"
+        },
+        {
+            "school": "Fu Jen Catholic University",
+            "degree": "Non-Degree Student",
+            "major": "Information Management",
+            "period": "2019 \u2013 2020"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Technical Consultant",
+            "company": "SAGE Technologies Limited Full-time",
+            "period": "May 2018 \u2013 Jul 2019",
+            "description": "\u2022 Used Scala and Apache Spark to create and debug ETL jobs; improved data processing efficiency by 200%\n\u2022 Set up a data collection system using Python and Scrapy Framework to parse 15+ websites\n\u2022 Developed 8 front-end and back-end modules using Python on Django Web Framework\n\u2022 Wrote stored procedures, functions, and packages using PL/SQL, reducing project time by 25%\n\u2022 Implemented 15 interactive visual analytics in the form of dashboards with Tableau Desktop\n\u2026\nsee more"
+        }
+    ]
+}

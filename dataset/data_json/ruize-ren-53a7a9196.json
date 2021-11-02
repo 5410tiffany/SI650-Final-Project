@@ -1,0 +1,30 @@
+{
+    "Education": [
+        {
+            "school": "Cornell University",
+            "degree": "Master of Science - MS",
+            "major": "Chemical Engineering",
+            "period": "2021 \u2013 2023"
+        },
+        {
+            "school": "Tianjin University",
+            "degree": "Master of Engineering - MEng",
+            "major": "Computer Science",
+            "period": "2020 \u2013 2021"
+        },
+        {
+            "school": "Tianjin University",
+            "degree": "Bachelor's degree",
+            "major": "Chemical Engineering",
+            "period": "2016 \u2013 2020"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Java Backend Intern",
+            "company": "MokaHR Internship",
+            "period": "Apr 2021 \u2013 Jun 2021",
+            "description": "(Java, MySQL, SpringBoot, Mybaits)\nExpand the customer service management systems, analysis the usage of the product, reducing manual workload for Service data technicians and operators.\nExpand the clock recording section in the field of absence service to get the statistics of the clock record with the different scopes.\nDeveloped a health check platform in the field of on-boarding service to filter the wrong data in the database."
+        }
+    ]
+}

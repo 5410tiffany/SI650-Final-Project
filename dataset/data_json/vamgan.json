@@ -1,0 +1,48 @@
+{
+    "Education": [
+        {
+            "school": "Carnegie Mellon University",
+            "degree": "Master's degree",
+            "major": "Information Systems Management",
+            "period": "2020 \u2013 2022"
+        },
+        {
+            "school": "University of Mumbai",
+            "degree": "Bachelor of Engineering (B.E.)",
+            "major": "Information Technology",
+            "period": "2014 \u2013 2018"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Graduate Teaching Assistant",
+            "company": "Carnegie Mellon University Part-time",
+            "period": "Aug 2021 \u2013 Present",
+            "description": "90812 - Intro to Programming with Python."
+        },
+        {
+            "title": "Software Engineer Intern",
+            "company": "Walmart Global Tech Full-time",
+            "period": "Jun 2021 \u2013 Aug 2021",
+            "description": "\u2022 Took the lead on implementing intelligent monitoring of the Walmart Self-Checkout application, using Dynatrace, to automate the process of identifying issues in the application.\n\u2022 Automated the process of data analysis to provide insightful reports and statistics about application errors and failures.\n\u2022 Worked on the self-checkout Age-check feature of the application using Android Kotlin. Helped implement usage analytics for Walmart stores across the United States in Dynatrace, handling over 9 million requests per month.\n\u2022 Developed visualization to measure performance metrics of different versions of the application to help increase efficiency and optimize application performance at each view using USQL.\n\u2022 Developed a view in React Native mini-app for Walmart POS app.\n\u2026\nsee more"
+        },
+        {
+            "title": "Web Design Assistant",
+            "company": "Carnegie Mellon University Part-time",
+            "period": "Apr 2021 \u2013 Jun 2021",
+            "description": null
+        },
+        {
+            "title": "Software Developer",
+            "company": "Amaze Entertech Ltd. Full-time",
+            "period": "Mar 2019 \u2013 Feb 2020",
+            "description": "\u2022 Developed new functionalities for the internal portal of the company in Angular to manage daily operations.\n\u2022 Analyzed Google Analytics Data to find problems in the website and thus optimizing the site by 30%.\n\u2022 Optimized the load time of the page by 50% thus reducing the bounce rate of the user by making the flow seamless.\n\u2022 Revamped present applications to make it more mobile-friendly thus increasing customer retention by 20%.\n\u2026\nsee more"
+        },
+        {
+            "title": "System Engineer",
+            "company": "Infosys Full-time",
+            "period": "Jun 2018 \u2013 Jan 2019",
+            "description": "\u2022 Developed an online course portal on SAP ABAP.\n\u2022 Understood the functional specifications and developed multiple reports as per the client requirement.\n\u2022 Implemented SAP Smartforms to generate certificates in the course portal and used SAP Web DynPro and Advanced\nprogramming in SAP ABAP to build the interface.\n\u2022 Implemented a complete company with processes such as purchase requisition, rfq\u2019s, purchase orders, goods receipt,\ninvoice verification, sub-contracting, consignment po, stock transfer etc. in SAP MM module.\n\u2026\nsee more"
+        }
+    ]
+}

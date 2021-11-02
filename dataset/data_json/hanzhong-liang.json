@@ -1,0 +1,30 @@
+{
+    "Education": [
+        {
+            "school": "Cornell University",
+            "degree": "MEng",
+            "major": "Electrical and Computer Engineering",
+            "period": "2021 \u2013 2022"
+        },
+        {
+            "school": "Shandong University",
+            "degree": "Bachelor",
+            "major": "Automation",
+            "period": "2016 \u2013 2020"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Computer Vision Engineer",
+            "company": "BIGO Internship",
+            "period": "Jan 2021 \u2013 Jul 2021",
+            "description": "\u2022 Nudity & Sexual Content Moderation System: Responsible for improving BIGO nudity & sexual content detection system, improved and contributed 5 models, built a RESTful server with flask server to run the model and recorded the analysis results in Mysql, successfully reduced the volume of human moderators' review by 30%, took down offensive or inappropriate live steaming by 12%, ensured safer and better user experience.\n\u2022 Child Safety Moderation System: Analyzed 500+ valid cases, designed age model to restrict the age of streamer, deploy the server on AWS EC2 instances to support load balance and scalability, decreased the number of minor steamer by 80%, developed child safety model to take down inappropriate child-related content.\n\u2022 Copyright Protection System: Improved copyright protection system in Likee, designed a watermark detection model, which can detect more than 200 kinds of video platform watermark, to filter out videos stole from other video platform, achieving an 90% reduction of infringing videos.\n\u2022 Product Search & recommend system: Developed a product search system which classified products from more than 50 thousands categories. Cooperated with steaming group, developed a service to recommend the detected products during live steaming.\n\u2026\nsee more"
+        },
+        {
+            "title": "Research Intern",
+            "company": "Shandong University Internship",
+            "period": "Jun 2019 \u2013 Oct 2019",
+            "description": "\u2022 Developed a vision-based navigation system for unmanned aerial vehicles (UAV).\n\u2022 Implemented DJI Mavic Pro drone to capture images to build a data set which include more than 50,000 images.\n\u2022 Trained a novel DNN, named UAVPatrolNet, to enable the UAV system recognize the roads and find the direction of navigation, with 93.9% accuracy on the test data set.\n\u2026\nsee more"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Education": [
+        {
+            "school": "Northeastern University",
+            "degree": "Master's degree",
+            "major": "Computer Systems Engineering",
+            "period": "2019 \u2013 2021"
+        },
+        {
+            "school": "East China University of Science and Technology",
+            "degree": "Bachelor of Engineering - BE",
+            "major": "Automation",
+            "period": "2010 \u2013 2014"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Software Engineer Intern",
+            "company": "Juix Internship",
+            "period": "Jan 2021 \u2013 May 2021",
+            "description": "\u2022 Developed backend services and data schema for the management application with Spring Boot /Hibernate/MySQL \u2022 Built scheduler jobs for sending weekly emails to internal subscribers, reporting equipment usage statistics\n\u2022 Participated in the development of the Android application for power bank rental with RxJava and Retrofit\n\u2022 Implemented high-performing live chat service with intercom, enabling one-on-one customer service messaging\n\u2022 Improved payment flow by integrating and customizing Stripe SDK to handle thousands of monthly payments\n\u2026\nsee more"
+        },
+        {
+            "title": "Test Engineer",
+            "company": "Subaru Full-time",
+            "period": "Jan 2015 \u2013 Jun 2019",
+            "description": "\u2022 Built a program using CAPL and Python to assess vehicle CAN Bus System and detect defects in the system\n\u2022 Created Python scripts to test GNSS connection performance to improve the work efficiency"
+        }
+    ]
+}

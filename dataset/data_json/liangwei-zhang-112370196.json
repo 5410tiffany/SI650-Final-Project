@@ -1,0 +1,54 @@
+{
+    "Education": [
+        {
+            "school": "Carnegie Mellon University School of Computer Science",
+            "degree": "Master of Science - MS",
+            "major": "Master of Science in Intelligent Information Science",
+            "period": "2021 \u2013 2022"
+        },
+        {
+            "school": "The Hong Kong University of Science and Technology",
+            "degree": "Bachelor's degree",
+            "major": "Data science and technology (Minor in Big Data Technology)",
+            "period": "2017 \u2013 2021"
+        },
+        {
+            "school": "Northeast Yucai School",
+            "degree": "High School Diploma",
+            "major": null,
+            "period": "2014 \u2013 2017"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Undergraduate Research Assistant",
+            "company": "The Hong Kong University of Science and Technology Internship",
+            "period": "Jun 2020 \u2013 May 2021",
+            "description": "\u2022 Constructed a comprehensive knowledge graph framework of COVID-19 related information from medical articles\n\u2022 Designed entity extraction and relation extraction pipelines through pre-trained NER model and OpenIE\n\u2022 Committed 4k+ lines of Python code to retrieve over 21,000 entities and relations with the accuracy of over 85% in the evaluation and stored them in MongoDB by Graphic User interface\n\u2022 Built a frontend web application including Search Engines and Graphin API by React and Node.js to visualize the backend data to make over 30 clusters\n\u2026\nsee more"
+        },
+        {
+            "title": "Company Name\nTencent",
+            "company": null,
+            "period": "Feb 2020 \u2013 Aug 2020",
+            "description": "\u2022 Committed 4k+ lines of C++ code to construct News Articles Understanding Framework by Word2vec+TFIDF and Bert to obtain embeddings of news articles\n\u2022 Optimized the performance of extracting similarities between articles through embedding vectors by performing stopword filtering through Tensorflow, which increased the accuracy of TFIDF by 10% over 200,000 articles\n\u2022 Developed Heatmaps by Python to visualize the result from generating similar articles\n\u2026\nsee more"
+        },
+        {
+            "title": "Title\nSoftware Engineer Intern",
+            "company": null,
+            "period": "Feb 2020 \u2013 Aug 2020",
+            "description": "\u2022 Committed 4k+ lines of C++ code to construct News Articles Understanding Framework by Word2vec+TFIDF and Bert to obtain embeddings of news articles\n\u2022 Optimized the performance of extracting similarities between articles through embedding vectors by performing stopword filtering through Tensorflow, which increased the accuracy of TFIDF by 10% over 200,000 articles\n\u2022 Developed Heatmaps by Python to visualize the result from generating similar articles\n\u2026\nsee more"
+        },
+        {
+            "title": "Title\nSoftware Engineer Intern",
+            "company": null,
+            "period": "Feb 2020 \u2013 Aug 2020",
+            "description": null
+        },
+        {
+            "title": "Software Engineer Intern",
+            "company": "Jilin Yillion Bank Co., Ltd. Internship",
+            "period": "Jun 2019 \u2013 Aug 2019",
+            "description": "\u2022 Estimated probabilities of customer loss default on loans based on personal information for risk management\n\u2022 Developed various analytical models through Python\n\u2022 Improved performance of all models by over 15% and obtained the best performance around 75%\n\u2026\nsee more"
+        }
+    ]
+}

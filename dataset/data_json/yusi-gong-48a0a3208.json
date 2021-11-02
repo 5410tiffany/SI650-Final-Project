@@ -1,0 +1,36 @@
+{
+    "Education": [
+        {
+            "school": "Rice University",
+            "degree": "Master's degree",
+            "major": "Computer Science",
+            "period": "2021 \u2013 2023"
+        },
+        {
+            "school": "Tianjin University",
+            "degree": "Bachelor's degree",
+            "major": "Software Engineering",
+            "period": "2017 \u2013 2021"
+        },
+        {
+            "school": "Chongqing Nankai Secondary School",
+            "degree": "High School Diploma",
+            "major": null,
+            "period": "2011 \u2013 2017"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Software Engineer Intern",
+            "company": "Kuaishou Technology Internship",
+            "period": "Mar 2021 \u2013 Jul 2021",
+            "description": "\u2022 Developed QR code entry on invitation page to attract new users, responsible for feature iteration, design of A/B testing and effect analysis based on Java; increased module DAU by 8% on average.\n\u2022 Implemented automatic 10-million data synchronization between Kafka and Redis which sent real-time alerts to the administrator.\n\u2022 Developed a gRPC service to query daily user data for engineers in other department members, improving working efficiency with other departments.\n\u2022 Optimized redundant business logic, decoupled with front-end group and designed a general technical solution to reduce workload of related business development by about 90% based on Java Reflection.\n\u2022 Tracked interface access data of over 5,000 users based on Grafana(a visualization web application for company\u2019s internal use), visualized daily actions on the dashboard, and monitored to ensure stability.\n\u2026\nsee more"
+        },
+        {
+            "title": "Software Development Engineer",
+            "company": "NetEase Games Internship",
+            "period": "Jun 2020 \u2013 Aug 2020",
+            "description": "\u2022 Built the functions of audio input acquisition of Android devices by employing the native software development kit.\n\u2022 Utilized Android HTTP transmission library to send and receive data with the internal server; implemented additional functions such as user voice input HTTP transmission and noise reduction.\n\u2022 Improved efficiency of voice internet transmission by introducing data compression mechanism while collecting voice input; achieved a transmission delay within 500ms.\n\u2026\nsee more"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Education": [
+        {
+            "school": "Rice University",
+            "degree": "Master's degree",
+            "major": "Computer Science",
+            "period": "2021"
+        },
+        {
+            "school": "\u570b\u7acb\u653f\u6cbb\u5927\u5b78",
+            "degree": "Bachelor's degree",
+            "major": "Department of Economics",
+            "period": "2016 \u2013 2021"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Data Analyst / Back-end Engineer",
+            "company": "Hi-Health",
+            "period": "Feb 2020 \u2013 Feb 2021",
+            "description": "- Develop API\u2019s authentication with Laravel to increase the security of user\u2019s personal information (ex. name, phone number, etc)\n- Develop the authentication of logging in with apple id\n- Research & build Siamese Network & Proto-typical Network with PyTorch\n- Analyze the data of mobile phone\u2019s Inertial Measurement Unit (IMU) sensors by visualizing them with Matplotlib to enhance the accuracy of the feedback on users\u2019 movements given by our app"
+        },
+        {
+            "title": "Research Assistant, Department of Economics",
+            "company": "National Taiwan University",
+            "period": "Oct 2019 \u2013 Feb 2020",
+            "description": "- The goal of this research is to save the government\u2019s expense on human resource doing field study of commodity\u2019s market price to calculate the yearly CPI (Consumer Price Index) of Taiwan.\n- Use Random Forest model to label the unlabeled data in the database for inferring the formula of calculating the CPI of Taiwan from 100,000,000+ everyday electronic invoice data with Python & PostgreSQL\n- In result, produced the first prototype of the formula.\n\u2026\nsee more"
+        }
+    ]
+}

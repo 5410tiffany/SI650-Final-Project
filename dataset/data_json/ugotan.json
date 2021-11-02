@@ -1,0 +1,36 @@
+{
+    "Education": [
+        {
+            "school": "Rice University",
+            "degree": "Master of Computer Science",
+            "major": null,
+            "period": "2021 \u2013 2023"
+        },
+        {
+            "school": "National Taiwan University",
+            "degree": "Bachelor of Business Administration - BBA",
+            "major": "Accounting Major; Business Analytics Program",
+            "period": "2014 \u2013 2019"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Research Assistant",
+            "company": "National Taiwan University Internship",
+            "period": "Feb 2020 \u2013 May 2021",
+            "description": "\u2022 Research Areas: Computer Vision, Image Inpainting & Outpainting, and Audio\u2011Visual Sound Source Separation\n\u2022 Collaborated with Qualcomm in San Diego on designing deep learning frameworks with Pytorch for two image outpainting projects, and one of them has resulted in a first\u2011authored conference paper in 2021"
+        },
+        {
+            "title": "Software Engineer Intern",
+            "company": "SkyREC Inc. Internship",
+            "period": "Jul 2018 \u2013 Aug 2019",
+            "description": "\u2022 Developed an automated system by designing APIs with Python, SQL, and Shell Script to facilitate other engineers\u2019 model training processes, such as filtering, processing, and auto\u2011labeling data from the internal shared database\n\u2022 Improved the accuracy of a multi\u2011class object detection model by 5% mAP compared to a previous model\n\u2022 Investigated 3 kinds of object detection models for different camera types and object classes, which led to products\n\u2022 Collaborated with senior engineers to develop and maintain an asynchronous server for internal data management\n\u2022 Technical Support: troubleshot devices (e.g. cameras, Wi\u2011Fi routers, and PoEs) for nearly 100 retail stores\n\u2026\nsee more"
+        },
+        {
+            "title": "Audit (Winter) Intern",
+            "company": "Ernst & Young Internship",
+            "period": "Jan 2017 \u2013 Feb 2017",
+            "description": "\u2022 Utilized Microsoft Excel skills such as formula functions, charts, and pivot tables to analyze data for financial reports"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "Education": [
+        {
+            "school": "Arizona State University",
+            "degree": "Master of Science - MS",
+            "major": "Computer Science",
+            "period": "2020 \u2013 2021"
+        },
+        {
+            "school": "Malaviya National Insitute of Technology Jaipur",
+            "degree": "Bachelor of Technology (B.Tech.)",
+            "major": "Computer Science",
+            "period": "2015 \u2013 2019"
+        },
+        {
+            "school": "Maharani Gayatri Devi Girls' School, Jaipur",
+            "degree": "Marticulation",
+            "major": "Science",
+            "period": "2003 \u2013 2015"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Graduate Services Assistant",
+            "company": "Arizona State University Part-time",
+            "period": "Sep 2021 \u2013 Present",
+            "description": "\u2022 Assisting professor with course material, assignments and exams for Statistical Learning (CSE569) with 140+ enrolled students.\n\u2022 Aiding students with paradigms of machine learning, inner workings of ML algorithms and challenges in machine and deep learning."
+        },
+        {
+            "title": "Software Engineer Intern",
+            "company": "Apple Internship",
+            "period": "May 2021 \u2013 Aug 2021",
+            "description": "\u2022 Developed an Apple Internal Research project from an idea into a proof-of-concept while leading the project planning.\n\u2022 Achieved industry benchmark in the NLP classification task using BERT model with python to conclude the project.\n\u2022 Selected as the only intern out of four by the Sr. Director to present my internship work to the Vice President of my organization.\n\u2022 Pitched the project idea for future funding to the Vice President of an Apple service.\n\u2026\nsee more"
+        },
+        {
+            "title": "Artificial Intelligence Developer Intern",
+            "company": "Quadrical.ai Internship",
+            "period": "Jul 2019 \u2013 Dec 2019",
+            "description": "\u2022 Built pipelines in Python to run ensemble of customized learning models like CatBoost, support vector machine, neural networks etc. resulting in a common platform for all clients\u2019 data.\n\u2022 Created customer dashboards for data visualization in Tableau and PowerBI for ease of access to clients.\n\u2022 Analyzed data-points and worked on feature engineering of the data to improve ensemble model accuracy\n\u2026\nsee more"
+        },
+        {
+            "title": "Independent Contractor",
+            "company": "Fidelity Investments",
+            "period": "May 2018 \u2013 Jul 2018",
+            "description": "\u2022 Automated on-boarding of new customers using Java and DFC for back-end and Microsoft PowerApps for front-end and henceforth reducing manual labor of 1200-1500 hours ($100,000 - $150,000) per year.\n\u2022 Yielded further improvement in terms of saving time by adding a recommender system to the application.\n\u2026\nsee more"
+        },
+        {
+            "title": "Summer Intern",
+            "company": "NetElixir Internship",
+            "period": "May 2017 \u2013 Jun 2017",
+            "description": "\u2022 Developed a python pipeline for comparison of various machine learning algorithms like linear and logistic regressions, support vector machine, random forest etc. to shift the Search Engine Marketing paradigm from logic-based to learning-based implementation.\n\u2022 Adapted design changes for NetElixir blog for a better customer experience.\n\u2026\nsee more"
+        }
+    ]
+}

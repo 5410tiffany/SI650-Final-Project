@@ -1,0 +1,36 @@
+{
+    "Education": [
+        {
+            "school": "Carnegie Mellon University",
+            "degree": "Master's degree",
+            "major": "Electrical and Computer Engineering",
+            "period": "2021 \u2013 2023"
+        },
+        {
+            "school": "University of Illinois Urbana-Champaign",
+            "degree": "Bachelor of Science - BS",
+            "major": "Statistics",
+            "period": "2017 \u2013 2021"
+        },
+        {
+            "school": "University of Illinois at Urbana-Champaign",
+            "degree": "Bachelor of Science - BS",
+            "major": "Computer Engineering",
+            "period": "2017 \u2013 2021"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Software Engineer Intern",
+            "company": "Cambricon Technologies Internship",
+            "period": "Mar 2021 \u2013 Jun 2021",
+            "description": "\u2022 Tested MagicMind API of TensorFlow network and various operations of four main frameworks on MLU270 and MLU370 with Ctest and Pytest and submitted bug reports to other developers.\n\u2022 Ran pre-trained image classification models on ImageNet locally to compare top-1/5 accuracy rates with the same models ran on MLU370 by MagicMind and reported any difference.\n\u2022 Developed the MagicMind Python API daily test and deployed it on GitLab with bash scripts to curl MagicMind Python package every day and trigger the CI/CD pipeline.\n\u2026\nsee more"
+        },
+        {
+            "title": "Software Engineer Intern",
+            "company": "Shenzhen Future Interactive Entertainment Technology Co., LTD. Internship",
+            "period": "Jun 2018 \u2013 Jul 2018",
+            "description": "\u2022 Collaborated with other senior engineers to establish the server backend and database with Spring Boot, and worked on web requests and data query.\n\u2022 Programmed parts of company website with HTML, and updated daily information on the website.\n\u2026\nsee more"
+        }
+    ]
+}

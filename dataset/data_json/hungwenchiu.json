@@ -1,0 +1,42 @@
+{
+    "Education": [
+        {
+            "school": "Carnegie Mellon University",
+            "degree": "Master of Science - MS",
+            "major": "Computer Software Engineering",
+            "period": "2021 \u2013 2022"
+        },
+        {
+            "school": "National Tsing Hua University",
+            "degree": "Master of Science - MS",
+            "major": "Communication engineering",
+            "period": "2012 \u2013 2014"
+        },
+        {
+            "school": "National Sun Yat-Sen University",
+            "degree": "Bachelor of Science - BS",
+            "major": "Computer Science and Engineering",
+            "period": "2008 \u2013 2012"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Software Development Intern",
+            "company": "MediaTek Internship",
+            "period": "May 2021 \u2013 Aug 2021",
+            "description": "Analyzed performance on computer cache and improved it by using machine learning algorithms\n\u2022 Utilized perceptron learning algorithm on cache reuse prediction and constructed a cache predictor in Python, which improved the prediction accuracy in the cache and reduced the cache miss rate.\n\u2022 Reduced 24% of cache miss rate compared to LRU cache and improved 6% of the cache access performance over LRU cache."
+        },
+        {
+            "title": "Software Engineer",
+            "company": "Aslent Technology Co., Ltd Full-time",
+            "period": "Mar 2020 \u2013 Nov 2020",
+            "description": "Cooperated with hardware engineers and customers, building software architectures and embedded systems\n\u2022 Engineered a wafer auto-storage system to arrange the wafer and monitor the status automatically in Python, which minimized labor cost by 20% and risks of operation by 30%.\n\u2022 Built a controller in C++ integrating different types of readers into one device to reduce hardware cost by 30%.\n\u2026\nsee more"
+        },
+        {
+            "title": "Backend Software Engineer",
+            "company": "TSMC Full-time",
+            "period": "Sep 2014 \u2013 Oct 2018",
+            "description": "Constructed and maintained automated production systems\n\u2022 Built and Boosted backend services on semiconductor process automated systems by using C++, which achieved full process automation and conserved labor cost by 10% while improving process yield by 23%.\n\u2022 Established a report auto-generation system in Python, which reduced labor costs by 12%.\n\u2026\nsee more"
+        }
+    ]
+}

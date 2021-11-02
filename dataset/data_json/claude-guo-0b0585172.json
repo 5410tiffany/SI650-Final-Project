@@ -1,0 +1,30 @@
+{
+    "Education": [
+        {
+            "school": "University of California, Davis",
+            "degree": "Bachelor of Science - BS",
+            "major": "Computer Science",
+            "period": "2018 \u2013 2020"
+        },
+        {
+            "school": "College of San Mateo",
+            "degree": "Associate of Science - AS",
+            "major": "Computer and Information Science",
+            "period": "2016 \u2013 2018"
+        },
+        {
+            "school": "Cambridge High School, New Zealand",
+            "degree": null,
+            "major": null,
+            "period": "2014 \u2013 2015"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Software Development Engineer Intern",
+            "company": "China Mobile International Limited",
+            "period": "May 2018 \u2013 Sep 2018",
+            "description": "\uf0b7 Implemented list components including \u201cmy schedule\u201d, \u201cteam schedule\u201d\nand \u201cmy friends\u201d and built relative features such as create/delete event, edit\nevent and view event for Feixin mobile app (available on App Store)\n\uf0b7 Improved the response speed of search and filtering by 10% using ES6 and\nES7 JavaScript features including filter, class and asynchronous\n\uf0b7 Developed a good understanding of workflow cooperating with the coworkers on the Development team\n\u2026\nsee more"
+        }
+    ]
+}

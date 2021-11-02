@@ -1,0 +1,48 @@
+{
+    "Education": [
+        {
+            "school": "university of wisconsin-madison",
+            "degree": "Master of Science - MS",
+            "major": "Computer Science",
+            "period": "2021 \u2013 2023"
+        },
+        {
+            "school": "National Taiwan University",
+            "degree": "Bachelor's degree",
+            "major": "Economics",
+            "period": "2010 \u2013 2015"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Data Analyst / Engineer",
+            "company": "Cathay United Bank",
+            "period": "Jan 2019 \u2013 Dec 2020",
+            "description": "* Generate data for 6000 users in Cathay United Bank\nComprehend business logic, turning raw data into meaningful information for business units across the entire bank.\n- Discuss business logic with users\n- Data Wrangling with SQL\n- Use perl and ETL tools to deliver data across multiple system\n- Visiualize data via python or BI tools like Cognos or Tableau\n\n* Collect anonymous customer behavior and turn it into insight\nIn charge of Celebrus (online data collecting tool similar with GA).\n- Monitor server side issue\n- Design, maintain and adjust ETL job flows\n- Use data to make funnel analysis, helping build a marketing strategy\n- Use data to design A/B testing on web pages, optimizing content on websites\n- Use data to identify anonymous user, enabling sales unit to reach them\n\n* Build investing strategy / model for trading room\nCooperate with traders and leverage market data into profitable investing strategy / model\n- Use SQL / python to combine various source of financial data\n- Design back testing algorithm\n- Design rule-based trading strategy\n- Design trading models using deep learning technique like LSTM to address Time Series Forecasting\n\u2026\nsee more"
+        },
+        {
+            "title": "\u53f0\u7063\u4eba\u5de5\u667a\u6167\u5b78\u6821",
+            "company": "AiAcademy",
+            "period": "Jul 2019 \u2013 Nov 2019",
+            "description": "A part-time bootcamp focusing on machine learning and deep learning. The curriculum covered from basic linear regression model to latest neural network model. We did several Kaggle competition to practice implementing and tuning model. In the final project, we adopt keras and built a mode to predict the interval of stock price.\n\u2026\nsee more"
+        },
+        {
+            "title": "Data Engineer",
+            "company": "Tixguru",
+            "period": "Aug 2018 \u2013 Dec 2018",
+            "description": "Tixguru inc. is a startup company providing online automated trading service.\n* Create financial database and develop trading strategy from scratch\n- Get Market Data via python web scraping library\n- Design an automatic data pipeline to load raw data into database\n- Write scripts to schedule tasks on GCP\n- Design back testing code\n- Build dashboard via Elasticsearch & Kibana\n\u2026\nsee more"
+        },
+        {
+            "title": "Big Data \u8cc7\u6599\u5206\u6790\u5e2b\u990a\u6210\u73ed",
+            "company": "\u4e2d\u58e2\u8cc7\u7b56\u6703",
+            "period": "Mar 2018 \u2013 Aug 2018",
+            "description": "A full-time bootcamp focusing on fundamentals of computer science and hands-on practice of data engineering / analysis.\nThe curriculum includes Linux, SQL, Java, Python, Javascript, Data Analysis, Machine Learning, Data Visualization. In the final project, we leveraged the skills above and build an online platform to evaluate reasonable house prices of certain area and provide analytic report and visualization.\n\u2026\nsee more"
+        },
+        {
+            "title": "Product Specialist",
+            "company": "91APP, Inc.",
+            "period": "Jan 2017 \u2013 Mar 2018",
+            "description": "91 APP is an e-commerce solution provider that allows anyone to set up an online store on web/APP.\n* Leverage the company's product or solution (e-commerce platform services including website, app, in-store integration software, payment, customized marketing function) to enhance clients' revenue\n- Analyze sales data of clients to find composition of customer group\n- Discuss with clients to find pain points\n- Recommend multiple marketing solution for clients in accordance with their customer segmentation\n- Design A/B testing to optimize marketing strategy\n\u2026\nsee more"
+        }
+    ]
+}

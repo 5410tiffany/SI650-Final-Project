@@ -1,0 +1,30 @@
+{
+    "Education": [
+        {
+            "school": "University of Illinois Urbana-Champaign",
+            "degree": "Master's degree",
+            "major": "Computer Science",
+            "period": "2021 \u2013 2022"
+        },
+        {
+            "school": "National Tsing Hua University",
+            "degree": "Bachelor of Science - BS",
+            "major": "Computer Science",
+            "period": "2015 \u2013 2018"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Co-founder, Full Stack Engineer",
+            "company": "QSticker Full-time",
+            "period": "Aug 2020 \u2013 Jul 2021",
+            "description": "\u2022 Built learning ability assessment platform, helping 1K daily active users improve academic performance\n\u2022 Established persistent task scheduler and web-based file system by Java, and Morphia/MongoDB\n\u2022 Enabled multi-chatbot messaging by designing abstraction layer above Line, Messenger, and WeChat chatbot SDKs\n\u2022 Tuned production environment for Tomcat and MongoDB Docker containers running on Google Cloud Engine"
+        },
+        {
+            "title": "Full Stack Engineer",
+            "company": "Artiv Phototile Full-time",
+            "period": "Oct 2019 \u2013 Jun 2020",
+            "description": "\u2022 Developed cloud photo storage that compresses and resizes uploaded photos using PHP and MySQL\n\u2022 Reduced request response time by 50% through tuning compression algorithm based on OpenCV and C++\n\u2022 Utilized OAuth2 authorization to import user\u2019s photos on Google, Facebook and Instagram Photo API\n\u2026\nsee more"
+        }
+    ]
+}

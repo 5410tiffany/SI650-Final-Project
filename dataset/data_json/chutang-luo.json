@@ -1,0 +1,48 @@
+{
+    "Education": [
+        {
+            "school": "New York University",
+            "degree": "Master of Science - MS",
+            "major": "Data Science",
+            "period": "2019 \u2013 2021"
+        },
+        {
+            "school": "Sun Yat-Sen University",
+            "degree": "Bachelor's degree",
+            "major": "Information Management and Information System",
+            "period": "2015 \u2013 2019"
+        },
+        {
+            "school": "The University of Hong Kong",
+            "degree": "Exchange Student",
+            "major": "Faculty of Engineering",
+            "period": "2017 \u2013 2017"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Software Engineer Intern",
+            "company": "Microsoft Internship",
+            "period": "Jun 2021 \u2013 Present",
+            "description": "\u2022 Designed and implemented metrics-based monitoring components that recognized abnormal time series data patterns and diagnosed 95% SharePoint Search backend server exceptions\n\u2022 Built auto analysis data streaming pipelines to automate anomaly detection in a timely manner, saving quality assurance engineers 90% time on their daily investigations\n\u2022 Implemented alert service and problematic server auto bouncing features in C# and PowerShell, reducing on-calls average ops load by 30 minutes\n\u2026\nsee more"
+        },
+        {
+            "title": "Software Engineer",
+            "company": "New York University Internship",
+            "period": "May 2020 \u2013 Nov 2020",
+            "description": "\u2022 Designed and developed a highly customizable framework for Python web scrapers, saving the team 60% time on writing repeated scraping functions\n\u2022 Built and maintained a data pipeline to scrape and save more than 1,000 jail rosters in the U.S every day, including using AWS Lambda to aggregate, schedule and trigger batch jobs, dynamically allocating workers in EC2 instances, and storing data in RDS Aurora\n\u2022 Implemented a Python scheduler to automate up-to-date data summarization and visualization by pre-generating static website metrics corresponding to different counties, states and races\n\u2026\nsee more"
+        },
+        {
+            "title": "IT Consultant Intern",
+            "company": "Accenture Internship",
+            "period": "Nov 2018 \u2013 Jan 2019",
+            "description": "\u2022 Implemented decision tree model through Python based on customers\u2019 historical data with final recall ratio of 74% to find out potential insurance buyers and assist decision making of strategy team\n\u2022 Analyzed clients\u2019 requirements, designed ER models and constructed corresponding databases using SQL server including 200k records; gathered comprehensive profiles of cars and customers by SQL queries\n\u2022 Cleaned and verified data entries through Python and VBA, improving data quality by 40%\n\u2026\nsee more"
+        },
+        {
+            "title": "Data Science Intern",
+            "company": "DiDi Internship",
+            "period": "Jul 2018 \u2013 Nov 2018",
+            "description": "\u2022 Deployed logistic regression, k-means clustering and cross-correlation table to conduct various analysis to find out characters of drivers, cars, roads, and environments when violations occurred\n\u2022 Proposed violation detection and prediction strategies with A/B testing based on analytical results, leading to 25% reduction in traffic violation rate\n\u2022 Cleaned, organized and visualized data through Python (Pandas, Numpy, Matplotlib, Seaborn) to do exploratory data analysis and present key findings to colleagues\n\u2022 Accelerated data processing by 50% by automating data retrieval and extraction with SQL queries\n\u2026\nsee more"
+        }
+    ]
+}

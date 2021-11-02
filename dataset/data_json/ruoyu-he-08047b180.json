@@ -1,0 +1,24 @@
+{
+    "Education": [
+        {
+            "school": "University of California, Los Angeles",
+            "degree": "Master of Science - MS",
+            "major": "Computer Science",
+            "period": "2021"
+        },
+        {
+            "school": "University of Wisconsin-Madison",
+            "degree": "Bachelor of Science - BS",
+            "major": "Computer Science",
+            "period": "2017 \u2013 2021"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Software Engineer",
+            "company": "Microsoft Internship",
+            "period": "Jun 2020 \u2013 Sep 2020",
+            "description": "- Deployed Local Active Monitoring to supervise the activity of Microsoft 365 daemon and\nlogged the availability of Exchange Mailbox Replication service to disk.\n- Collected 2.6 billion records of service disruption information on Azure and analyzed those records to construct a Power BI dashboard to showcase recent unhealthy clusters.\n- Automated ETL process with ADF task flow, which incrementally refreshes the intermediate data table on Azure Data Factory and reduces materialization time from 2 hours to 13 minutes.\n\u2026\nsee more"
+        }
+    ]
+}

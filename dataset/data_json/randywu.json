@@ -1,0 +1,54 @@
+{
+    "Education": [
+        {
+            "school": "Carnegie Mellon University",
+            "degree": "Master of Science - MS",
+            "major": "Computer Systems Networking and Telecommunications",
+            "period": "2021 \u2013 2022"
+        },
+        {
+            "school": "National Taiwan University",
+            "degree": "Bachelor of Business Administration - BBA",
+            "major": "Major in Finance, Minor in Computer Science and Information Engineering",
+            "period": "2014 \u2013 2018"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Software Engineer, C++",
+            "company": "Kronos Research Full-time",
+            "period": "Jun 2020 \u2013 Aug 2021",
+            "description": "Infrastructure team\n\n- Provided modifications and integrations of a C++ high-frequency trading platform for collecting trades/quotes and disseminating orders to over 20 crypto exchanges\n- Collaborated with traders and risk analysts to provide 24x7 support for debugging and investigating issues utilizing C++\n- Maintained data pipelines to ingest over 10TB of data each day including market feed trade, quote data, and reference data\n- Optimized legacy C++ code by migrating to modern C++ and removing inefficient computation units out of loops\n- Worked in agile software development lifecycle methodology with a 6-member team to develop estimates and work breakdown schedules for project planning process\n- Participated in regular interviewing, recruiting events and improved company\u2019s internal mentoring efforts by documenting software cycle phases and performing code reviews\n\u2026\nsee more"
+        },
+        {
+            "title": "Company Name\nNational Taiwan University",
+            "company": null,
+            "period": "Sep 2019 \u2013 May 2020",
+            "description": "Machine Discovery and Social Network Mining Lab\n- Utilized entity embedding to train a NN model for predicting loan clients\u2019 monthly salary"
+        },
+        {
+            "title": "Title\nResearch Assistant of Prof. Shou-De Lin",
+            "company": null,
+            "period": "Sep 2019 \u2013 May 2020",
+            "description": "Machine Discovery and Social Network Mining Lab\n- Utilized entity embedding to train a NN model for predicting loan clients\u2019 monthly salary"
+        },
+        {
+            "title": "Title\nResearch Assistant of Prof. Jyh-Shing Jang",
+            "company": null,
+            "period": "Jun 2019 \u2013 Sep 2019",
+            "description": "Music Information Retrieval Lab\n- Improved the KNN chord estimation model precision to 90% and submitted to the Music Information Retrieval Evaluation eXchange (MIREX)"
+        },
+        {
+            "title": "Software Engineer",
+            "company": "Cathay United Bank",
+            "period": "Sep 2018 \u2013 Jul 2019",
+            "description": "Financial Marketing Department\n- Implemented an in-house PHP/MySQL-based web application for derivative pricing\n- Designed relational database schema to store information related to 15,000+ financial products and wrote VBA scripts to automate coupon payments calculation\n\u2026\nsee more"
+        },
+        {
+            "title": "Project Intern",
+            "company": "CTBC Financial Holding Co., Ltd Internship",
+            "period": "Jul 2017 \u2013 Sep 2017",
+            "description": "Capital Market Department\n- Designed an interactive media-FX SWAP IP calculator to calculate price for swaps.\n- Created visually-engaging presentation slides introducing products to potential customers.\n\u2026\nsee more"
+        }
+    ]
+}

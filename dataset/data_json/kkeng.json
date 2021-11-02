@@ -1,0 +1,54 @@
+{
+    "Education": [
+        {
+            "school": "UC San Diego",
+            "degree": "Master of Science - MS",
+            "major": "Computer Science",
+            "period": "2020 \u2013 2021"
+        },
+        {
+            "school": "National Taipei University",
+            "degree": "Bachelor's degree",
+            "major": "Computer Science and Information Engineering",
+            "period": "2014 \u2013 2018"
+        },
+        {
+            "school": "The Hong Kong Polytechnic University",
+            "degree": "Exchange Student",
+            "major": "Computing",
+            "period": "2017 \u2013 2017"
+        }
+    ],
+    "Experience": [
+        {
+            "title": "Graduate Student",
+            "company": "UC San Diego Full-time",
+            "period": "Sep 2020 \u2013 Present",
+            "description": "Department: Computer Science and Engineering\nOverall GPA: 3.9\n\u2022 CSE 291 Social Computing\n\u2022 CSE 224 Graduate Network System\n\u2022 CSE 258 Web Mining and Recommendation System\n\u2022 CSE 120 Operating System\n\u2022 CSE 170 Interaction Design\n\u2022 CSE 222 Computer Communication Network"
+        },
+        {
+            "title": "Software Engineer Intern",
+            "company": "The Trade Desk Full-time",
+            "period": "Jun 2021 \u2013 Sep 2021",
+            "description": "\u2022 Developed the data visualization chart for advertisement campaign metrics with React, Typescript, and highchart API library to improve 93% website running speed that impacts on 15.5K Monthly Active Users(MAU)\n\u2022 Refactored the server-side end point in C# that provides data for visualization to support the new front-end system\n\u2026\nsee more"
+        },
+        {
+            "title": "Research Software Engineer",
+            "company": "City University of Hong Kong Full-time",
+            "period": "Feb 2019 \u2013 Jan 2020",
+            "description": "- Developed a multi-sensory experience of virtual reality on extreme weather and demonstrated to 100+ people in an exhibition at Hong Kong Maritime Museum\n- Organized a user study for 16 people to evaluate an innovative design - Thermal Cane, an improved white-cane grip for visually impaired users, and designed an Android app to collect data\n- Created a visualized web tool to analyze data, which save 30 percent of time compared with a manual setting\n\u2026\nsee more"
+        },
+        {
+            "title": "Undergraduate Student",
+            "company": "National Taipei University Full-time",
+            "period": "Sep 2014 \u2013 Jun 2018",
+            "description": "\u2022 Senior Project\n- Researched in LoRa technology to build up a network system in the area of 60 acres on campus to deliver data in self-driving car, gateway, and server\n- Designed prototype and implemented the Android app to allow users to register the logistic service\n\u2026\nsee more"
+        },
+        {
+            "title": "Software Engineer Internship",
+            "company": "Titansoft Pte Ltd",
+            "period": "Jul 2017 \u2013 Aug 2017",
+            "description": "- Improved and developed 5 functions to the employee online portal that benefited 130+ employees in the company\n- Engaged in a Scrum process and collaborated with product managers and Scrum managers in a 10 people team"
+        }
+    ]
+}
